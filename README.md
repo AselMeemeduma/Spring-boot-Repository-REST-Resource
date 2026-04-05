@@ -341,7 +341,3 @@ For support and questions:
 - Create an issue in the repository
 - Check the H2 console for database inspection
 - Review application logs for detailed error information
-
----
-
-**Built with ❤️ using Spring Boot**
